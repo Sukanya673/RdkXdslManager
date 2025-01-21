@@ -72,6 +72,8 @@
 #include "xdsl_report.h"
 #include "ccsp_psm_helper.h"
 
+#errrrrrrrrrrrrrrrrrrrrror testxdsl
+
 char * XdslReportStatusEnable = "eRT.com.cisco.spvtg.ccsp.xdslmanager.Enabled"; 
 char * XdslReportStatusDfltReportingPeriod = "eRT.com.cisco.spvtg.ccsp.xdslmanager.Default.ReportingPeriod"; 
 char * XdslReportStatusReportingPeriod = "eRT.com.cisco.spvtg.ccsp.xdslmanager.ReportingPeriod"; 
